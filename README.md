@@ -159,9 +159,10 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 Akoh Inmiogbegbile - [Github] (https://github.com/akohinmiogbegbile)
+Fabrice Uwayezu - [Github](https://github.com/01Fab) / [Twitter](https://twitter.com/fabrice25010).
 
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
-Update on 6/11/2023 by AKOH INMIOGBEGBILE
+Update on 6/11/2023 by Fabrice UWAYEZU and AKOH INMIOGBEGBILE
 ADDITION OF WEB_DYNAMIC
